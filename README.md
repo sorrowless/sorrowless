@@ -7,6 +7,6 @@
 
 Some stats:
 
-![sorrowless's github stats](https://github-readme-stats.vercel.app/api?username=sorrowless&show_icons=true)
+![sorrowless github stats](https://github-readme-stats.vercel.app/api?username=sorrowless&show_icons=true&count_private=true)
 
 [![HitCount](http://hits.dwyl.com/sorrowless/sorrowless.svg)](http://hits.dwyl.com/sorrowless/sorrowless)
