@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @godaddy, @codership and @oomag
-- 💬 Ask me about DevOps things
+- 🔭 I’m currently working on [@godaddy](https://github.com/godaddy), [@codership](https://github.com/codership) and [@oomag](https://github.com/oomag)
+- 💬 Ask me about Ansible
 - 📫 How to reach me: [site](https://sbog.ru) has some links
 - ⚡ Fun fact: I can write both on C and JS
 
