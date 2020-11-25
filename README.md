@@ -9,4 +9,4 @@ Some stats:
 
 ![sorrowless github stats](https://github-readme-stats.vercel.app/api?username=sorrowless&show_icons=true&count_private=true)
 
-![](https://komarev.com/ghpvc/?username=sorrowless&label=counter)
+![](https://komarev.com/ghpvc/?username=sorrowless&label=visitors)
