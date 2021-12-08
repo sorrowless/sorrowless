@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in [@tinkoff](https://www.tinkoff.ru/), [@codership](https://github.com/codership) and [@oomag](https://github.com/oomag). Previously spent some time in [@godaddy](https://github.com/godaddy) and [@mirantis](https://www.mirantis.com/)
+- 🔭 I’m currently working in [@TinkoffCreditSystems](hhttps://github.com/TinkoffCreditSystems), [@codership](https://github.com/codership) and [@oomag](https://github.com/oomag). Previously spent some time in [@godaddy](https://github.com/godaddy) and [@mirantis](https://www.mirantis.com/)
 - 💬 Ask me about Ansible
 - 📫 How to reach me: [site](https://sbog.ru) has some links
 - ⚡ Fun fact: I can write both on C and JS
